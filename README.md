@@ -34,7 +34,7 @@ An online shopping application built with Django, providing a platform for users
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/OnlineShoppingApp.git
+    git clone https://github.com/Parmeet15/OnlineShoppingApp.git
     cd OnlineShoppingApp
     ```
 
